@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77af777f1b8732d6",
+        "id": "655185cd818145c9",
         "type": "tabs",
         "children": [
           {
-            "id": "fae7078c7d70af65",
+            "id": "4cf4617f17744aae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 0 - Prologue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8cb53e2e7a359c58",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 0 - Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 0 - Prologue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session 0 - Prologue.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fae7078c7d70af65",
+  "active": "4cf4617f17744aae",
   "lastOpenFiles": [
-    "Session 0 - Prologue.md"
+    "Places/The Black Leviathan.md",
+    "Session Notes/Session 0 - Prologue.md",
+    "Character Notes/Helga Thunderaxe - Dwarf Barbarian (Beth).md",
+    "NPC Characters/Simon Sidrey.md",
+    "NPC Characters/Grak Bloodtide.md",
+    "NPC Characters/Bjorn Blackthorn.md",
+    "Character Notes/Tiny Pete the Biscuit Thief - Gnome Rogue (JJ).md",
+    "Character Notes/Oswald of Eldrath- Teifling Cleric (Shea).md",
+    "Character Notes/Daisy Greenfoot - Halfling Ranger (Meg).md",
+    "Session Notes",
+    "Enemies/Orc.md",
+    "NPC Characters/Captain Stormrider.md",
+    "Character Notes/Tiny Pete the Biscuit Theif - Orc Barbarian (JJ).md",
+    "Enemies",
+    "Places",
+    "NPC Characters",
+    "Character Notes"
   ]
 }
