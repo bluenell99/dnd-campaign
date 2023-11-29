@@ -1,0 +1,1 @@
+A young traveller races past the party in his horse and carriage. You can hear loud music coming from a bard sat in the back. It's strange he seems to be smoking some kind of flavoured stick and shouts "mwehehe" as he passes
