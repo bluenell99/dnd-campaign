@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarSquareCaretUp",
+      "FarMap",
+      "FarFolder",
+      "RaPlayer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "2. Non-Player Characters": "FarFolder",
+  "3. Places": "FarFolder",
+  "4. Factions": "FarFolder",
+  "5. Quests": "FarFolder",
+  "6. Session Notes": "FarFolder",
+  "7. Maps": "FarFolder",
+  "1. Player Characters": "FarFolder",
+  "9. ARCHIVE": "FarFolder"
+}

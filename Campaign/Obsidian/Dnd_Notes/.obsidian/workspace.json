@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "655185cd818145c9",
+        "id": "c6097552657fa6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf4617f17744aae",
+            "id": "53a4780233c9616a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Main Quest/Chapter 1- Greenest in Flames.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f22373c438726265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Main Quest/Chapter 1- Greenest in Flames.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1793d7b1926651bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enemies/Dragon Cult/Dragonclaw.md",
+                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 302.5
   },
   "right": {
     "id": "8cb53e2e7a359c58",
@@ -110,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enemies/Dragon Cult/Dragonclaw.md",
+                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enemies/Dragon Cult/Dragonclaw.md",
+                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enemies/Dragon Cult/Dragonclaw.md"
+                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md"
               }
             }
           },
@@ -162,6 +137,14 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "26ce551a145f5de8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
             }
           }
         ]
@@ -178,46 +161,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1793d7b1926651bc",
+  "active": "53a4780233c9616a",
   "lastOpenFiles": [
-    "Enemies/Dragon Cult/Cultist.md",
-    "Enemies/Dragon Cult/Dragonclaw.md",
-    "Enemies/Dragon Cult/Winged Kobold.md",
-    "Enemies/Dragon Cult/Kobold.md",
-    "Places/Greenest/Greenest.md",
-    "Enemies/Dragon Cult",
-    "Quests/Main Quest/Chapter 1- Greenest in Flames.md",
-    "Places/Holstead/Crestwind Manor.md",
-    "Places/Holstead/Holstead.md",
-    "Places/Greenest",
-    "NPC Characters/Leoisn Erlanthar.md",
-    "Enemies/Orc.md",
-    "Quests/Encounters/Assassin.md",
-    "NPC Characters/Sven.md",
-    "Character Notes/Tiny Pete the Biscuit Thief - Gnome Rogue (JJ).md",
-    "Quests/Encounters/Goblin Attack.md",
-    "Quests/Encounters/Disa Lawkins.md",
-    "Quests/Encounters/Lost Familar.md",
-    "Quests/Encounters/Woodie in his Fez.md",
-    "Quests/Encounters/Local Nitty.md",
-    "Enemies/Bandit.md",
-    "Enemies/Goblin.md",
-    "Factions/Cult of the Dragon.md",
-    "NPC Characters/Cult of the Dragon.md",
-    "Factions",
-    "NPC Characters/Untitled",
-    "Session Notes/Session 01 - Journey to Greenest.md",
-    "Quests/Main Quest",
-    "Quests/Rumours/Illicit Rituals at Crestwind Manor.md",
-    "NPC Characters/Lord Thorne.md",
-    "Quests/Encounters",
-    "Places/Holstead/Summoning chamber.md",
-    "Quests/Rumours",
-    "Quests",
-    "Places/Holstead",
-    "Session Notes"
+    "[Cultist.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Langdedrosa Cyanwrath (Mini Boss).md",
+    "6. Session Notes/Session 02 - Saving the Mill & Champion Fight.md",
+    "6. Session Notes/Session 01 - Journey to Greenest & Save the Chapel.md",
+    "6. Session Notes/Session 00- Prologue.md",
+    "5. Quests/Main Quest/Chapter 1- Greenest in Flames.md",
+    "2. Non-Player Characters/Friends/Governor Nighthill.md",
+    "9. ARCHIVE/Lost Familar.md",
+    "9. ARCHIVE/Local Nitty.md",
+    "5. Quests/Encounters/Goblin Attack.md",
+    "9. ARCHIVE",
+    "3. Places/Faerun.md",
+    "2. Non-Player Characters/Random/Fralia.md",
+    "3. Places/Holstead/The Holstead Market.md",
+    "3. Places/Holstead/Holstead Chapel.md",
+    "3. Places/Holstead/Mermaid's Respite.md",
+    "3. Places/Holstead/Summoning chamber.md",
+    "2. Non-Player Characters/Random/Sven.md",
+    "3. Places/Holstead/Holstead.md",
+    "3. Places/Holstead/Crestwind Manor.md",
+    "5. Quests/Encounters/Woodie in his Fez.md",
+    "5. Quests/Encounters/Disa Lawkins.md",
+    "5. Quests/Encounters/Assassin.md",
+    "1. Player Characters/Daisy Greenfoot - Halfling Ranger (Meg).md",
+    "5. Quests/Rumours/Illicit Rituals at Crestwind Manor.md",
+    "7. Maps/Untitled.md",
+    "7. Maps",
+    "2. Non-Player Characters/Random",
+    "2. Non-Player Characters/Friends",
+    "4. Factions/Cult of the Dragon",
+    "2. Non-Player Characters/Enemies/Dragon Cult",
+    "3. Places/Greenest",
+    "4. Factions",
+    "5. Quests/Main Quest",
+    "5. Quests/Encounters"
   ]
 }

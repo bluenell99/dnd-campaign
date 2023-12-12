@@ -1,1 +1,0 @@
-Crestwind Manor, a grand structure overlooking the town, is surrounded by well-manicured gardens. The scent of blooming flowers wafts through the air. The manor is the residence of Lord Thorne, a noble known for his philanthropy and love for extravagant parties. However, rumors circulate about the mysterious events within the manor's walls, adding an air of intrigue.

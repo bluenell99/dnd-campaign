@@ -1,1 +1,0 @@
-Leosin noted the unusual actions of the Cult of the Dragon and decided to investigate the matter. In [[Greenest]], he permitted the cultists to capture him in order to examine them more closely.[[1]](https://forgottenrealms.fandom.com/wiki/Leosin_Erlanthar#cite_note-HotDQ-p24-1)

@@ -1,3 +1,0 @@
-A lively establishment with a thatched roof, the Mermaid's Respite exudes warmth and cheer. The air is thick with the aroma of hearty stews, freshly baked bread, and the tang of sea salt. The tavern is adorned with nautical memorabilia, and sailors from distant lands gather here to share tales of their voyages. The barmaid, Elora, a former seafarer with a missing eye, regales patrons with tales of legendary sea monsters and hidden treasures.
-
-[[Sven]]

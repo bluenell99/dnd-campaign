@@ -1,0 +1,108 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Faerun_Map",
+      "locked": true,
+      "lastAccessed": 1701811064725,
+      "markers": [
+        {
+          "id": "ID_1a095a582968",
+          "type": "default",
+          "loc": [
+            247.109375,
+            1715.5
+          ],
+          "layer": "https%3A%2F%2Fmedia.wizards.com%2F2015%2Fimages%2Fdnd%2Fresources%2FSword-Coast-Map_HighRes.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 300.296875,
+              "lng": 1587.5,
+              "id": "ID_ea09b8abf898",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 500.296875,
+              "lng": 1728.5,
+              "id": "ID_481b5bfb1849",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 438.296875,
+              "lng": 1791.5,
+              "id": "ID_cab8eb9b4aa9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 339.296875,
+              "lng": 1747.5,
+              "id": "ID_68a84b98b9f9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "7. Maps/Faerun.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.1",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
