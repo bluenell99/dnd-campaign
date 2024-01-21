@@ -2,3 +2,17 @@ The Cult of the Dragon venerated dragons, evil dragons in particular, and specif
 
 The cult's leaders are called the [[Wearers of Purple]]
 
+## Ranks
+
+- Initiate (see [[Cultist]])
+- Dragonclaw
+- Dragonwing
+- Dragonfang
+- Dragonsoul
+- Wyrmspeaker
+
+Most of operations are overseen by local leaders called [[Wearers of Purple]]. All of the Wrymspeakers are Wearers of Purple
+
+## Wyrmspeakers
+
+There are only five wyrmspeakers, one per color of chromatic dragon. The current wyrmspeakers are Severin (red), Galvan (blue), Neronvain (green), [[Rezmir (Mini Boss)]] (black), and Varram (white).

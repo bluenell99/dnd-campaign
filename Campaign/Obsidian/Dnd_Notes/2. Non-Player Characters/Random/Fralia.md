@@ -1,1 +1,1 @@
-Runs a fruit stool in the hosltead market, elderly human woman
+Runs a fruit stool in the [[Holstead]] market, elderly human woman

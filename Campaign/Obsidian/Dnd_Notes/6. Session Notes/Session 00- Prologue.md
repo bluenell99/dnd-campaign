@@ -3,7 +3,7 @@
 [[Oswald of Eldrath- Teifling Cleric (Shea)]]
 [[Daisy Greenfoot - Halfling Ranger (Meg)]]
 [[Helga Thunderaxe - Dwarf Barbarian (Beth)]]
-[[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ)]]
+[[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ) (DECEASED)]]
 
 ---
 ### Setting the Stage
@@ -25,7 +25,7 @@ Orc attack on the boat was successful and the party was able to find a handful o
 
 [[Captain Stormrider]] offers the party a place to rest in the officers quarters as thanks for defeating the orcs.
 
-The party arrives at a small port town called [[Holstead]] where [[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ)]] and [[Daisy Greenfoot - Halfling Ranger (Meg)]] look around the market for food and [[Helga Thunderaxe - Dwarf Barbarian (Beth)]] and [[Oswald of Eldrath- Teifling Cleric (Shea)]] go to the tavern
+The party arrives at a small port town called [[Holstead]] where [[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ) (DECEASED)]] and [[Daisy Greenfoot - Halfling Ranger (Meg)]] look around the market for food and [[Helga Thunderaxe - Dwarf Barbarian (Beth)]] and [[Oswald of Eldrath- Teifling Cleric (Shea)]] go to the tavern
 
 Oswald Challenges a local in the tavern to chess who gets confused and demands money from oswald for the game ending in stalemate
 

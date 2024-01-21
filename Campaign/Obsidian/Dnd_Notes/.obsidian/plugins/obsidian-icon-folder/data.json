@@ -30,7 +30,9 @@
   "4. Factions": "FarFolder",
   "5. Quests": "FarFolder",
   "6. Session Notes": "FarFolder",
-  "7. Maps": "FarFolder",
   "1. Player Characters": "FarFolder",
-  "9. ARCHIVE": "FarFolder"
+  "9. ARCHIVE": "FarFolder",
+  "Extra": "FarFolder",
+  "8. NPC Names Generator": "FarFolder",
+  "7. Items": "FarFolder"
 }

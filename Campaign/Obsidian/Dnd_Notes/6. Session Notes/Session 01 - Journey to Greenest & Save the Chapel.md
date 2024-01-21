@@ -3,7 +3,7 @@
 [[Oswald of Eldrath- Teifling Cleric (Shea)]]
 [[Daisy Greenfoot - Halfling Ranger (Meg)]]
 [[Helga Thunderaxe - Dwarf Barbarian (Beth)]]
-[[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ)]]
+[[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ) (DECEASED)]]
 
 ---
 Helga and Oslwald buy a bedroll from the general goods store in holstead

@@ -1,4 +1,4 @@
-A hooded figure approaches in the shadows. If jumps out of the verge and attempts to stab [[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ)]]. 
+A hooded figure approaches in the shadows. If jumps out of the verge and attempts to stab [[Tiny Pete the Biscuit Thief - Gnome Rogue (JJ) (DECEASED)]]. 
 
 If the players loot him they will find a note saying:
 

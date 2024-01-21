@@ -9,3 +9,13 @@ The market square, once alive with the vibrancy of trade, now hosts makeshift te
 The atmosphere in Greenest is one of resilience mixed with palpable fear. The townspeople, though shaken, are determined to rebuild. Some huddle in groups, discussing plans for reconstruction, while others solemnly search through the wreckage for remnants of their former lives.
 
 As the sun sets over the scarred landscape, the people of Greenest begin to light lanterns and torches, casting long shadows on the damaged buildings. The town, once a beacon of peace, now stands as a symbol of both the fragility of life and the strength of a community united in the face of adversity.
+
+---
+
+## Locations
+
+[[Steelhammer Forge]]
+[[Arianna's Artisanal Bakes]]
+[[Greenest Keep]]
+[[Greenest Mill]]
+[[Greenest Chapel]]

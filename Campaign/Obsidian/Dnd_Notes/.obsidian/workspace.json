@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
+                "file": "3. Places/Greenest/The Grassland Tavern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27954a318f83eb99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 343.5
   },
   "right": {
     "id": "8cb53e2e7a359c58",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
+                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
+                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md"
+                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md"
               }
             }
           },
@@ -135,7 +148,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -147,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,43 +182,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "53a4780233c9616a",
+  "active": "27954a318f83eb99",
   "lastOpenFiles": [
-    "[Cultist.md",
-    "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
-    "2. Non-Player Characters/Enemies/Dragon Cult/Langdedrosa Cyanwrath (Mini Boss).md",
-    "6. Session Notes/Session 02 - Saving the Mill & Champion Fight.md",
-    "6. Session Notes/Session 01 - Journey to Greenest & Save the Chapel.md",
-    "6. Session Notes/Session 00- Prologue.md",
-    "5. Quests/Main Quest/Chapter 1- Greenest in Flames.md",
-    "2. Non-Player Characters/Friends/Governor Nighthill.md",
-    "9. ARCHIVE/Lost Familar.md",
-    "9. ARCHIVE/Local Nitty.md",
-    "5. Quests/Encounters/Goblin Attack.md",
-    "9. ARCHIVE",
-    "3. Places/Faerun.md",
-    "2. Non-Player Characters/Random/Fralia.md",
-    "3. Places/Holstead/The Holstead Market.md",
-    "3. Places/Holstead/Holstead Chapel.md",
-    "3. Places/Holstead/Mermaid's Respite.md",
+    "6. Session Notes/Session 03 - Journey to the Raiders Camp.md",
+    "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
+    "6. Session Notes/Session 04 - Dragon Hatchery.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Tiamat (Boss).md",
+    "7. Items/Notes/Note from Rezmir to Frulum.md",
+    "7. Items/Potions.md",
+    "3. Places/The Black Leviathan.md",
     "3. Places/Holstead/Summoning chamber.md",
-    "2. Non-Player Characters/Random/Sven.md",
-    "3. Places/Holstead/Holstead.md",
-    "3. Places/Holstead/Crestwind Manor.md",
-    "5. Quests/Encounters/Woodie in his Fez.md",
-    "5. Quests/Encounters/Disa Lawkins.md",
-    "5. Quests/Encounters/Assassin.md",
-    "1. Player Characters/Daisy Greenfoot - Halfling Ranger (Meg).md",
     "5. Quests/Rumours/Illicit Rituals at Crestwind Manor.md",
-    "7. Maps/Untitled.md",
-    "7. Maps",
+    "1. Player Characters/Tiny Pete the Biscuit Thief - Gnome Rogue (JJ) (DECEASED).md",
+    "1. Player Characters/Thorn (JJ).md",
+    "1. Player Characters/Oswald of Eldrath- Teifling Cleric (Shea).md",
+    "1. Player Characters/Owen.md",
+    "1. Player Characters/Helga Thunderaxe - Dwarf Barbarian (Beth).md",
+    "5. Quests/Main Quest/Chapter 2 - Raiders' Camp.md",
+    "4. Factions/Cult of the Dragon/Cult of the Dragon.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
+    "3. Places/Greenest/The Grassland Tavern.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Kobold.md",
+    "8. NPC Names Generator/Human Names.md",
+    "3. Places/Greenest/Eldrin's Apothecary & Cauldron.md",
+    "2. Non-Player Characters/Random/Eldrin Swiftleaf.md",
+    "3. Places/Greenest/Arianna's Artisanal Bakes.md",
+    "3. Places/Greenest/Steelhammer Forge.md",
+    "6. Session Notes/Session 02 - Saving the Mill & Champion Fight.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Guard Drake.md",
+    "7. Items/Notes",
+    "7. Items",
+    "3. Places/Greenest/Untitled",
+    "9. ARCHIVE",
+    "8. NPC Names Generator",
     "2. Non-Player Characters/Random",
     "2. Non-Player Characters/Friends",
     "4. Factions/Cult of the Dragon",
     "2. Non-Player Characters/Enemies/Dragon Cult",
-    "3. Places/Greenest",
-    "4. Factions",
-    "5. Quests/Main Quest",
-    "5. Quests/Encounters"
+    "3. Places/Greenest"
   ]
 }
