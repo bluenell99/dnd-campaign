@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
+                "file": "7. Items/Weapons/Dragonfang Halberd.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
+                "file": "7. Items/Weapons/Dragonfang Halberd.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
+                "file": "7. Items/Weapons/Dragonfang Halberd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md"
+                "file": "7. Items/Weapons/Dragonfang Halberd.md"
               }
             }
           },
@@ -184,11 +184,22 @@
   },
   "active": "27954a318f83eb99",
   "lastOpenFiles": [
-    "6. Session Notes/Session 03 - Journey to the Raiders Camp.md",
-    "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
-    "6. Session Notes/Session 04 - Dragon Hatchery.md",
-    "2. Non-Player Characters/Enemies/Dragon Cult/Tiamat (Boss).md",
+    "7. Items/Weapons/Aela's Whisper.md",
+    "7. Items/Weapons/Dragonfang Halberd.md",
+    "7. Items/Weapons/Wyrmclaw.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Guard Drake.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Frulum Mondath (Mini Boss).md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Dragonclaw.md",
     "7. Items/Notes/Note from Rezmir to Frulum.md",
+    "2. Non-Player Characters/Random/Aela.md",
+    "7. Items/Weapons",
+    "6. Session Notes/Session 04 - Dragon Hatchery (Part 1).md",
+    "6. Session Notes/Session 05 - Dragon Hatchery (Part 2).md",
+    "5. Quests/Main Quest/Chapter 2 - Raiders' Camp.md",
+    "5. Quests/Main Quest/Chapter 3 - Dragon Hatchery.md",
+    "5. Quests/Main Quest/Chapter 1- Greenest in Flames.md",
+    "6. Session Notes/Session 03 - Journey to the Raiders Camp.md",
+    "2. Non-Player Characters/Enemies/Dragon Cult/Tiamat (Boss).md",
     "7. Items/Potions.md",
     "3. Places/The Black Leviathan.md",
     "3. Places/Holstead/Summoning chamber.md",
@@ -198,18 +209,8 @@
     "1. Player Characters/Oswald of Eldrath- Teifling Cleric (Shea).md",
     "1. Player Characters/Owen.md",
     "1. Player Characters/Helga Thunderaxe - Dwarf Barbarian (Beth).md",
-    "5. Quests/Main Quest/Chapter 2 - Raiders' Camp.md",
     "4. Factions/Cult of the Dragon/Cult of the Dragon.md",
     "2. Non-Player Characters/Enemies/Dragon Cult/Cultist.md",
-    "3. Places/Greenest/The Grassland Tavern.md",
-    "2. Non-Player Characters/Enemies/Dragon Cult/Kobold.md",
-    "8. NPC Names Generator/Human Names.md",
-    "3. Places/Greenest/Eldrin's Apothecary & Cauldron.md",
-    "2. Non-Player Characters/Random/Eldrin Swiftleaf.md",
-    "3. Places/Greenest/Arianna's Artisanal Bakes.md",
-    "3. Places/Greenest/Steelhammer Forge.md",
-    "6. Session Notes/Session 02 - Saving the Mill & Champion Fight.md",
-    "2. Non-Player Characters/Enemies/Dragon Cult/Guard Drake.md",
     "7. Items/Notes",
     "7. Items",
     "3. Places/Greenest/Untitled",
@@ -218,7 +219,6 @@
     "2. Non-Player Characters/Random",
     "2. Non-Player Characters/Friends",
     "4. Factions/Cult of the Dragon",
-    "2. Non-Player Characters/Enemies/Dragon Cult",
-    "3. Places/Greenest"
+    "2. Non-Player Characters/Enemies/Dragon Cult"
   ]
 }
