@@ -1,0 +1,4 @@
+- Uldren will give the party 150 gold each for completing the quest.
+- A corrupted red crystal can be found in the centre of the nexus remains. It is worth 300 gold to the right merchant.
+- Malistra will drop a Cloak of Necrotic Resistance, and his dagger that deals an extra 1d6 necrotic damage to enemies
+- 
