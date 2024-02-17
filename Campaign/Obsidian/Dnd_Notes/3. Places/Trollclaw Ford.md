@@ -1,0 +1,1 @@
+A small ruined hamlet that shows signs of previous settlement, but has since been abandoned due to continual troll attacks. 

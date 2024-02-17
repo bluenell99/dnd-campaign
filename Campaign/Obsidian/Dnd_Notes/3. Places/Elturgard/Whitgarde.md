@@ -1,0 +1,1 @@
+A small farming Hamlet within the region of Elturgard. The hamlet has two medium sized farms with wheat and potatoes, and a three wooden cottages. 

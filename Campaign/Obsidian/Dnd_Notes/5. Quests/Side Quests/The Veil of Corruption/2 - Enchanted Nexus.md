@@ -19,5 +19,3 @@ E--D-
 
 They need to be re-arranged to create to say "Nexus Exude Force Death Shade"
 
-When the runes are arranged correctly, continue to next chapter
-
